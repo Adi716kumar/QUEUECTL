@@ -419,5 +419,4 @@ Run `./demo.sh` for a scripted walkthrough of every feature (see script
 source for exact steps), or run the commands from
 [section 2](#2-usage-examples) yourself.
 
-*(Add your recorded CLI demo video link here before submission, per the
-assignment's submission checklist.)*
+Video Link: https://drive.google.com/file/d/16OWiZ1jnFIfHCXMttLO2y4UsDBkbJBW9/view?usp=sharing
