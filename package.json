@@ -1,0 +1,20 @@
+{
+  "name": "queuectl",
+  "version": "1.0.0",
+  "description": "A minimal, production-grade CLI background job queue with retries, exponential backoff, and a Dead Letter Queue.",
+  "main": "src/cli.js",
+  "bin": {
+    "queuectl": "./bin/queuectl.js"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "commander": "^15.0.0"
+  }
+}

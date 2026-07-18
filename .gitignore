@@ -1,0 +1,8 @@
+node_modules/
+.queuectl/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+npm-debug.log*
+.DS_Store
